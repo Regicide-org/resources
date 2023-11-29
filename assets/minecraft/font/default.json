@@ -2,6 +2,15 @@
     "providers": [
 		{
 			"type": "bitmap",
+			"file": "concordiacraft:gui/backgrounds/main.png",
+			"ascent": 21,
+			"height": 136,
+			"chars": [
+			"\u0781"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "concordiacraft:gui/notifications/error.png",
 			"ascent": 7,
 			"height": 7,
