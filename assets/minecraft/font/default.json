@@ -2,6 +2,78 @@
     "providers": [
 		{
 			"type": "bitmap",
+			"file": "concordiacraft:gui/container/chest.png",
+			"ascent": 21,
+			"height": 175,
+			"chars": [
+			"\u07A6"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/container/double_chest.png",
+			"ascent": 21,
+			"height": 229,
+			"chars": [
+			"\u07A7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/container/barrel.png",
+			"ascent": 21,
+			"height": 175,
+			"chars": [
+			"\u07A8"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/container/anvil.png",
+			"ascent": 20,
+			"height": 173,
+			"chars": [
+			"\u07A9"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/container/cartography_table.png",
+			"ascent": 18,
+			"height": 173,
+			"chars": [
+			"\u07AA"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/util/lmb.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+			"\u0790"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/util/mmb.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+			"\u0791"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/util/rmb.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+			"\u0792"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "concordiacraft:gui/backgrounds/main.png",
 			"ascent": 21,
 			"height": 136,
