@@ -3,7 +3,18 @@
   "textures": {
     "layer0": "minecraft:item/flint_and_steel"
   },
-   "overrides": [
-   {"predicate": {"custom_model_data": 100}, "model": "concordiacraft:item/null_item"}
+   "overrides": [	
+   {"predicate": {"custom_model_data": 100}, "model": "concordiacraft:item/null_item"},
+   {"predicate": {"custom_model_data": 101}, "model": "concordiacraft:item/exit"},
+   {"predicate": {"custom_model_data": 102}, "model": "concordiacraft:item/info"},
+   {"predicate": {"custom_model_data": 103}, "model": "concordiacraft:item/coin"},
+   {"predicate": {"custom_model_data": 104}, "model": "concordiacraft:item/discord"},
+   {"predicate": {"custom_model_data": 105}, "model": "concordiacraft:item/info"},
+   {"predicate": {"custom_model_data": 106}, "model": "concordiacraft:item/knowledge"},
+   {"predicate": {"custom_model_data": 107}, "model": "concordiacraft:item/market"},
+   {"predicate": {"custom_model_data": 108}, "model": "concordiacraft:item/towns"},
+   {"predicate": {"custom_model_data": 109}, "model": "concordiacraft:item/nations"},
+   {"predicate": {"custom_model_data": 110}, "model": "concordiacraft:item/social"},
+   {"predicate": {"custom_model_data": 111}, "model": "concordiacraft:item/planet"}
  ]
 }

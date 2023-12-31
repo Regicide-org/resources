@@ -51,7 +51,7 @@
 			"ascent": 8,
 			"height": 8,
 			"chars": [
-			"\u0790"
+			"\u0500"
 			]
 		},
 		{
@@ -60,7 +60,7 @@
 			"ascent": 8,
 			"height": 8,
 			"chars": [
-			"\u0791"
+			"\u0501"
 			]
 		},
 		{
@@ -69,13 +69,13 @@
 			"ascent": 8,
 			"height": 8,
 			"chars": [
-			"\u0792"
+			"\u0502"
 			]
 		},
 		{
 			"type": "bitmap",
 			"file": "concordiacraft:gui/backgrounds/main.png",
-			"ascent": 21,
+			"ascent": -7,
 			"height": 136,
 			"chars": [
 			"\u0781"

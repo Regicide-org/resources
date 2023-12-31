@@ -1,0 +1,7 @@
+{
+	"credit": "For ConcordiaCraft server",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "concordiacraft:item/discord"
+	}
+}
