@@ -5,6 +5,7 @@
   "container.chestDouble": "\uF808§f\u07A7",
   "container.barrel": "\uF808§f\u07A8",
   "container.cartography_table": "\uF808§f\u07AA",
-  "menu.game": "§x§B§A§5§8§B§Fᴄᴏɴᴄᴏʀᴅɪᴀᴄʀᴀꜰᴛ",
-  "menu.returnToGame": "§f§lПродолжить игру"
+  "menu.game": "§f\u0250",
+  "menu.returnToGame": "§f§lПродолжить игру",
+  "menu.disconnect": "§cПокинуть ConcordiaCraft"
 }

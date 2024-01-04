@@ -47,6 +47,15 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "concordiacraft:gui/util/full_logo.png",
+			"ascent": 46,
+			"height": 234,
+			"chars": [
+			"\u0250"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "concordiacraft:gui/util/lmb.png",
 			"ascent": 8,
 			"height": 8,
@@ -79,6 +88,15 @@
 			"height": 136,
 			"chars": [
 			"\u0781"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/backgrounds/hrefs.png",
+			"ascent": -2,
+			"height": 91,
+			"chars": [
+			"\u0782"
 			]
 		},
 		{
