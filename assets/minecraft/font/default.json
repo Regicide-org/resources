@@ -3,8 +3,8 @@
 		{
 			"type": "bitmap",
 			"file": "concordiacraft:gui/container/chest.png",
-			"ascent": 21,
-			"height": 175,
+			"ascent": 19,
+			"height": 173,
 			"chars": [
 			"\u07A6"
 			]
@@ -12,8 +12,8 @@
 		{
 			"type": "bitmap",
 			"file": "concordiacraft:gui/container/double_chest.png",
-			"ascent": 21,
-			"height": 229,
+			"ascent": 19,
+			"height": 227,
 			"chars": [
 			"\u07A7"
 			]
@@ -21,8 +21,8 @@
 		{
 			"type": "bitmap",
 			"file": "concordiacraft:gui/container/barrel.png",
-			"ascent": 21,
-			"height": 175,
+			"ascent": 19,
+			"height": 173,
 			"chars": [
 			"\u07A8"
 			]
@@ -38,8 +38,8 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "concordiacraft:gui/container/cartography_table.png",
-			"ascent": 18,
+			"file": "concordiacraft:gui/container/ender_chest.png",
+			"ascent": 19,
 			"height": 173,
 			"chars": [
 			"\u07AA"
@@ -142,6 +142,15 @@
 			"height": 9,
 			"chars": [
 			"\u0780"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/util/title.png",
+			"ascent": 21,
+			"height": 42,
+			"chars": [
+			"\u0251"
 			]
 		},
         {

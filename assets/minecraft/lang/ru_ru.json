@@ -1,4 +1,6 @@
 {
+  "argument.player.unknown": "§f\u0380 §4Данного игрока не существует!",
+  "command.unknown.argument": "§f\u0380 §4Команде были переданы некорректные аргументы",
   "container.inventory": "",
   "container.repair": "\uF80B\uF802§f\u07A9",
   "container.chest": "\uF808\uF806§f\u07A6",
