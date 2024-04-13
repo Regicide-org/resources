@@ -4,6 +4,9 @@
     "layer0": "minecraft:item/flint_and_steel"
   },
    "overrides": [
+   {"predicate": {"custom_model_data": 95}, "model": "concordiacraft:item/exit_gold"},
+   {"predicate": {"custom_model_data": 96}, "model": "concordiacraft:item/back_gold"},
+   {"predicate": {"custom_model_data": 97}, "model": "concordiacraft:item/info_gold"},
    {"predicate": {"custom_model_data": 98}, "model": "concordiacraft:item/back"},
    {"predicate": {"custom_model_data": 99}, "model": "concordiacraft:item/info"},
    {"predicate": {"custom_model_data": 100}, "model": "concordiacraft:item/null_item"},
@@ -19,6 +22,8 @@
    {"predicate": {"custom_model_data": 110}, "model": "concordiacraft:item/social"},
    {"predicate": {"custom_model_data": 111}, "model": "concordiacraft:item/planet"},
    {"predicate": {"custom_model_data": 112}, "model": "concordiacraft:item/discord"},
-   {"predicate": {"custom_model_data": 113}, "model": "concordiacraft:item/vk"}
+   {"predicate": {"custom_model_data": 113}, "model": "concordiacraft:item/vk"},
+   {"predicate": {"custom_model_data": 114}, "model": "concordiacraft:item/online"},
+   {"predicate": {"custom_model_data": 115}, "model": "concordiacraft:item/offline"}
  ]
 }

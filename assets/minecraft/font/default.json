@@ -2,6 +2,96 @@
     "providers": [
 		{
 			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/full/dev.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D0"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/full/admin.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/full/moder.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/full/donate.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/full/default.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/short/dev.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D5"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/short/admin.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D6"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/short/moder.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/short/donate.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D8"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/prefix/short/default.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+			"\u08D9"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "concordiacraft:gui/container/chest.png",
 			"ascent": 19,
 			"height": 173,
@@ -56,6 +146,15 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "concordiacraft:gui/util/title_alternative.png",
+			"ascent": 9,
+			"height": 59,
+			"chars": [
+			"\u0252"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "concordiacraft:gui/util/lmb.png",
 			"ascent": 8,
 			"height": 8,
@@ -97,6 +196,24 @@
 			"height": 91,
 			"chars": [
 			"\u0782"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/backgrounds/profile.png",
+			"ascent": 29,
+			"height": 136,
+			"chars": [
+			"\u0783"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "concordiacraft:gui/backgrounds/help_slider_menu.png",
+			"ascent": 27,
+			"height": 148,
+			"chars": [
+			"\u0784"
 			]
 		},
 		{

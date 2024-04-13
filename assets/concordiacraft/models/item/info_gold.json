@@ -2,6 +2,6 @@
 	"credit": "For ConcordiaCraft server",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "concordiacraft:item/hrefs"
+		"layer0": "concordiacraft:item/info_gold"
 	}
 }
