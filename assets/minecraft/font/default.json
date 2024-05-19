@@ -218,6 +218,15 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "concordiacraft:gui/backgrounds/collection_players_players.png",
+			"ascent": 33,
+			"height": 219,
+			"chars": [
+			"\u0785"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "concordiacraft:gui/notifications/error.png",
 			"ascent": 7,
 			"height": 7,
